@@ -4,3 +4,9 @@
 .custom-slider{
     height: 500px !important;
 }
+.main-header{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 10px 0px;
+}
